@@ -9,6 +9,7 @@ export default function oasisBest() {
         <div class="component">
             <div class="bestItem">
                 <div class="kurly">
+                    <switch></switch>
                 </div>
                 <div class="oasis"></div>
                 <div class="wingeat"></div>

@@ -8,3 +8,5 @@ router.get('', (req, res) => {
         else res.send(err);
     })
 })
+
+module.exports = router;
